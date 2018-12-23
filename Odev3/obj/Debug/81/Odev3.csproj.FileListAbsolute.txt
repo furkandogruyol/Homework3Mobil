@@ -1,0 +1,171 @@
+C:\Users\Furkan\source\repos\Odev3\Odev3\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+C:\Users\Furkan\source\repos\Odev3\Odev3\obj\Debug\81\Odev3.nuget.stamp
+C:\Users\Furkan\source\repos\Odev3\Odev3\obj\Debug\81\libraryimports.cache.stamp
+C:\Users\Furkan\source\repos\Odev3\Odev3\obj\Debug\81\res.flag
+C:\Users\Furkan\source\repos\Odev3\Odev3\obj\Debug\81\Odev3.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\Odev3\Odev3\bin\Debug\Odev3.dll
+C:\Users\Furkan\source\repos\Odev3\Odev3\bin\Debug\Odev3.pdb
+C:\Users\Furkan\source\repos\Odev3\Odev3\bin\Debug\Odev3.Odev3.apk
+C:\Users\Furkan\source\repos\Odev3\Odev3\bin\Debug\Odev3.Odev3-Signed.apk
+C:\Users\Furkan\source\repos\Odev3\Odev3\obj\Debug\81\Odev3.csprojAssemblyReference.cache
+C:\Users\Furkan\source\repos\Odev3\Odev3\obj\Debug\81\Odev3.dll
+C:\Users\Furkan\source\repos\Odev3\Odev3\obj\Debug\81\Odev3.pdb
+C:\Users\Furkan\source\repos\Odev3\Odev3\obj\Debug\81\android\bin\Odev3.Odev3.apk
+C:\Users\Furkan\source\repos\Odev3\Odev3\obj\Debug\81\res\layout\activity_main.xml
+C:\Users\Furkan\source\repos\Odev3\Odev3\obj\Debug\81\res\values\colors.xml
+C:\Users\Furkan\source\repos\Odev3\Odev3\obj\Debug\81\res\values\ic_launcher_background.xml
+C:\Users\Furkan\source\repos\Odev3\Odev3\obj\Debug\81\res\values\strings.xml
+C:\Users\Furkan\source\repos\Odev3\Odev3\obj\Debug\81\res\values\styles.xml
+C:\Users\Furkan\source\repos\Odev3\Odev3\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher.xml
+C:\Users\Furkan\source\repos\Odev3\Odev3\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher_round.xml
+C:\Users\Furkan\source\repos\Odev3\Odev3\obj\Debug\81\res\mipmap-hdpi\ic_launcher.png
+C:\Users\Furkan\source\repos\Odev3\Odev3\obj\Debug\81\res\mipmap-hdpi\ic_launcher_foreground.png
+C:\Users\Furkan\source\repos\Odev3\Odev3\obj\Debug\81\res\mipmap-hdpi\ic_launcher_round.png
+C:\Users\Furkan\source\repos\Odev3\Odev3\obj\Debug\81\res\mipmap-mdpi\ic_launcher.png
+C:\Users\Furkan\source\repos\Odev3\Odev3\obj\Debug\81\res\mipmap-mdpi\ic_launcher_foreground.png
+C:\Users\Furkan\source\repos\Odev3\Odev3\obj\Debug\81\res\mipmap-mdpi\ic_launcher_round.png
+C:\Users\Furkan\source\repos\Odev3\Odev3\obj\Debug\81\res\mipmap-xhdpi\ic_launcher.png
+C:\Users\Furkan\source\repos\Odev3\Odev3\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_foreground.png
+C:\Users\Furkan\source\repos\Odev3\Odev3\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_round.png
+C:\Users\Furkan\source\repos\Odev3\Odev3\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher.png
+C:\Users\Furkan\source\repos\Odev3\Odev3\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_foreground.png
+C:\Users\Furkan\source\repos\Odev3\Odev3\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_round.png
+C:\Users\Furkan\source\repos\Odev3\Odev3\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher.png
+C:\Users\Furkan\source\repos\Odev3\Odev3\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+C:\Users\Furkan\source\repos\Odev3\Odev3\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_round.png
+C:\Users\Furkan\source\repos\Odev3\Odev3\obj\Debug\81\res\layout\fraglayout.xml
+C:\Users\Furkan\source\repos\Odev3\Odev3\obj\Debug\81\res\drawable\icon.jpg
+C:\Users\Furkan\source\repos\Odev3\Odev3\obj\Debug\81\res\layout\mailsend.xml
+C:\Users\Furkan\source\repos\Odev3\Odev3\obj\Debug\81\R.cs.flag
+C:\Users\Furkan\source\repos\Odev3\Odev3\obj\Debug\81\R.txt
+C:\Users\Furkan\source\repos\Odev3\Odev3\obj\Debug\81\uploadflags.txt
+C:\Users\Furkan\source\repos\Odev3\Odev3\bin\Debug\Mono.Android.pdb
+C:\Users\Furkan\source\repos\Odev3\Odev3\bin\Debug\mscorlib.pdb
+C:\Users\Furkan\source\repos\Odev3\Odev3\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Furkan\source\repos\Odev3\Odev3\bin\Debug\System.Core.pdb
+C:\Users\Furkan\source\repos\Odev3\Odev3\bin\Debug\System.pdb
+C:\Users\Furkan\source\repos\Odev3\Odev3\bin\Debug\System.Xml.pdb
+C:\Users\Furkan\source\repos\Odev3\Odev3\bin\Debug\System.Net.Http.pdb
+C:\Users\Furkan\source\repos\Odev3\Odev3\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\Furkan\source\repos\Odev3\Odev3\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\Furkan\source\repos\Odev3\Odev3\bin\Debug\System.Data.pdb
+C:\Users\Furkan\source\repos\Odev3\Odev3\bin\Debug\System.Numerics.pdb
+C:\Users\Furkan\source\repos\Odev3\Odev3\bin\Debug\System.Transactions.pdb
+C:\Users\Furkan\source\repos\Odev3\Odev3\bin\Debug\System.IO.Compression.pdb
+C:\Users\Furkan\source\repos\Odev3\Odev3\bin\Debug\System.IO.Compression.FileSystem.pdb
+C:\Users\Furkan\source\repos\Odev3\Odev3\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\Furkan\source\repos\Odev3\Odev3\bin\Debug\System.Web.Services.pdb
+C:\Users\Furkan\source\repos\Odev3\Odev3\bin\Debug\System.Xml.Linq.pdb
+C:\Users\Furkan\source\repos\Odev3\Odev3\bin\Debug\Mono.Security.pdb
+C:\Users\Furkan\source\repos\Odev3\Odev3\obj\Debug\81\linksrc\Odev3.pdb
+C:\Users\Furkan\source\repos\Odev3\Odev3\obj\Debug\81\linksrc\Mono.Android.pdb
+C:\Users\Furkan\source\repos\Odev3\Odev3\obj\Debug\81\linksrc\mscorlib.pdb
+C:\Users\Furkan\source\repos\Odev3\Odev3\obj\Debug\81\linksrc\Newtonsoft.Json.pdb
+C:\Users\Furkan\source\repos\Odev3\Odev3\obj\Debug\81\linksrc\System.Core.pdb
+C:\Users\Furkan\source\repos\Odev3\Odev3\obj\Debug\81\linksrc\System.pdb
+C:\Users\Furkan\source\repos\Odev3\Odev3\obj\Debug\81\linksrc\System.Xml.pdb
+C:\Users\Furkan\source\repos\Odev3\Odev3\obj\Debug\81\linksrc\System.Net.Http.pdb
+C:\Users\Furkan\source\repos\Odev3\Odev3\obj\Debug\81\linksrc\System.Runtime.Serialization.pdb
+C:\Users\Furkan\source\repos\Odev3\Odev3\obj\Debug\81\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\Furkan\source\repos\Odev3\Odev3\obj\Debug\81\linksrc\System.Data.pdb
+C:\Users\Furkan\source\repos\Odev3\Odev3\obj\Debug\81\linksrc\System.Numerics.pdb
+C:\Users\Furkan\source\repos\Odev3\Odev3\obj\Debug\81\linksrc\System.Transactions.pdb
+C:\Users\Furkan\source\repos\Odev3\Odev3\obj\Debug\81\linksrc\System.IO.Compression.pdb
+C:\Users\Furkan\source\repos\Odev3\Odev3\obj\Debug\81\linksrc\System.IO.Compression.FileSystem.pdb
+C:\Users\Furkan\source\repos\Odev3\Odev3\obj\Debug\81\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\Furkan\source\repos\Odev3\Odev3\obj\Debug\81\linksrc\System.Web.Services.pdb
+C:\Users\Furkan\source\repos\Odev3\Odev3\obj\Debug\81\linksrc\System.Xml.Linq.pdb
+C:\Users\Furkan\source\repos\Odev3\Odev3\obj\Debug\81\linksrc\Mono.Security.pdb
+C:\Users\Furkan\source\repos\Odev3\Odev3\obj\Debug\81\android\assets\Newtonsoft.Json.pdb
+C:\Users\Furkan\source\repos\Odev3\Odev3\obj\Debug\81\android\assets\Odev3.pdb
+C:\Users\Furkan\source\repos\Odev3\Odev3\obj\Debug\81\res\drawable\yhoscan.jpg
+C:\Users\Furkan\source\repos\Odev3\Odev3\obj\Debug\81\res\drawable\serkangunal.jpg
+C:\Users\Furkan\source\repos\Odev3\Odev3\obj\Debug\81\res\drawable\ckaleli.jpg
+C:\Users\Furkan\source\repos\Odev3\Odev3\obj\Debug\81\res\drawable\akuysal.jpg
+C:\Users\Furkan\source\repos\Odev3\Odev3\obj\Debug\81\res\drawable\sevcany.jpg
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\bin\Debug\Odev3.dll
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\bin\Debug\Odev3.pdb
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\bin\Debug\Odev3.Odev3.apk
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\bin\Debug\Odev3.Odev3-Signed.apk
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\obj\Debug\81\Odev3.nuget.stamp
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\obj\Debug\81\Odev3.csprojAssemblyReference.cache
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\obj\Debug\81\libraryimports.cache.stamp
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\obj\Debug\81\res.flag
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\obj\Debug\81\Odev3.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\obj\Debug\81\Odev3.dll
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\obj\Debug\81\Odev3.pdb
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\obj\Debug\81\android\bin\Odev3.Odev3.apk
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\obj\Debug\81\res\layout\activity_main.xml
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\obj\Debug\81\res\values\colors.xml
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\obj\Debug\81\res\values\ic_launcher_background.xml
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\obj\Debug\81\res\values\strings.xml
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\obj\Debug\81\res\values\styles.xml
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher.xml
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher_round.xml
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\obj\Debug\81\res\mipmap-hdpi\ic_launcher.png
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\obj\Debug\81\res\mipmap-hdpi\ic_launcher_foreground.png
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\obj\Debug\81\res\mipmap-hdpi\ic_launcher_round.png
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\obj\Debug\81\res\mipmap-mdpi\ic_launcher.png
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\obj\Debug\81\res\mipmap-mdpi\ic_launcher_foreground.png
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\obj\Debug\81\res\mipmap-mdpi\ic_launcher_round.png
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\obj\Debug\81\res\mipmap-xhdpi\ic_launcher.png
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_foreground.png
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_round.png
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher.png
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_foreground.png
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_round.png
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher.png
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_round.png
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\obj\Debug\81\res\layout\fraglayout.xml
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\obj\Debug\81\res\drawable\icon.jpg
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\obj\Debug\81\res\layout\mailsend.xml
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\obj\Debug\81\res\drawable\yhoscan.jpg
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\obj\Debug\81\res\drawable\serkangunal.jpg
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\obj\Debug\81\res\drawable\ckaleli.jpg
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\obj\Debug\81\res\drawable\akuysal.jpg
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\obj\Debug\81\res\drawable\sevcany.jpg
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\obj\Debug\81\R.cs.flag
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\obj\Debug\81\R.txt
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\obj\Debug\81\uploadflags.txt
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\bin\Debug\Mono.Android.pdb
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\bin\Debug\Mono.Security.pdb
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\bin\Debug\mscorlib.pdb
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\bin\Debug\System.Core.pdb
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\bin\Debug\System.Data.pdb
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\bin\Debug\System.IO.Compression.FileSystem.pdb
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\bin\Debug\System.IO.Compression.pdb
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\bin\Debug\System.Net.Http.pdb
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\bin\Debug\System.Numerics.pdb
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\bin\Debug\System.pdb
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\bin\Debug\System.Transactions.pdb
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\bin\Debug\System.Web.Services.pdb
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\bin\Debug\System.Xml.Linq.pdb
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\bin\Debug\System.Xml.pdb
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\obj\Debug\81\android\assets\Newtonsoft.Json.pdb
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\obj\Debug\81\android\assets\Odev3.pdb
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\obj\Debug\81\linksrc\Mono.Android.pdb
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\obj\Debug\81\linksrc\Mono.Security.pdb
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\obj\Debug\81\linksrc\mscorlib.pdb
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\obj\Debug\81\linksrc\Newtonsoft.Json.pdb
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\obj\Debug\81\linksrc\Odev3.pdb
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\obj\Debug\81\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\obj\Debug\81\linksrc\System.Core.pdb
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\obj\Debug\81\linksrc\System.Data.pdb
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\obj\Debug\81\linksrc\System.IO.Compression.FileSystem.pdb
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\obj\Debug\81\linksrc\System.IO.Compression.pdb
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\obj\Debug\81\linksrc\System.Net.Http.pdb
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\obj\Debug\81\linksrc\System.Numerics.pdb
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\obj\Debug\81\linksrc\System.pdb
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\obj\Debug\81\linksrc\System.Runtime.Serialization.pdb
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\obj\Debug\81\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\obj\Debug\81\linksrc\System.Transactions.pdb
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\obj\Debug\81\linksrc\System.Web.Services.pdb
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\obj\Debug\81\linksrc\System.Xml.Linq.pdb
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\obj\Debug\81\linksrc\System.Xml.pdb
+C:\Users\Furkan\Desktop\Yeni klasör\Odev3\Odev3\obj\Debug\81\linksrc\Odev3.pdb
